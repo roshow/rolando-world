@@ -14,7 +14,6 @@
     <h1>Rolando World</h1>
     <img src={earfGif} alt="spinning earth" />
     <a href="https://www.linkedin.com/in/rolandoworld/">@linkedin</a>
-    <a href="https://bsky.app/profile/rolando.world">@bluesky</a>
   </div>
 </main>
 
